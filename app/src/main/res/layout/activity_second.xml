@@ -6,9 +6,8 @@
     tools:context=".SecondActivity" >
 
     <ListView
-        android:id="@+id/lv"
+        android:id="@+id/lvNotes"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" >
-    </ListView>
+        android:layout_height="wrap_content"></ListView>
 
 </LinearLayout>
